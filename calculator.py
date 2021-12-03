@@ -11,7 +11,6 @@ def multiply(a, b):
 def divide_new(a, b):
   return a / b
 
-
 def getMedian(a, b):
     return (a+b)/2
 
@@ -23,3 +22,7 @@ def get_Abs(num):
     return num
   else:
     return -num
+
+def getPercent(a, b)
+    return (a/b) * 100
+
